@@ -1,4 +1,4 @@
-Fonts in this folder are self-hosted latin subsets from @fontsource 5.3.0 (npm).
+Fonts in this folder are self-hosted latin subsets from @fontsource 5.3.0 (Instrument Sans: @fontsource-variable, wght axis).
 Marcellus: Copyright (c) 2012 Brian J. Bonislawsky DBA Astigmatic (AOETI), Reserved Font Name "Marcellus".
 Instrument Sans: Copyright 2022 The Instrument Sans Project Authors.
 IBM Plex Mono: Copyright 2017 IBM Corp.
